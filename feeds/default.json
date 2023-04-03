@@ -1,0 +1,8 @@
+{
+    "github_repo": "mattdevelops/release-to-discord",
+    "discord_webhook_url": "https://discord.com/api/webhooks/xxxxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "discord_webhook_username": "Release to Discord",
+    "discord_webhook_avatar": "https://media.tenor.com/myWhE0y5rTsAAAAC/brent-rambo-thumbs-up.gif",
+    "discord_color": "7a65db",
+    "type": "release"
+}

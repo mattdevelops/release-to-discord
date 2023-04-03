@@ -1,0 +1,7 @@
+*
+!feeds/
+!feeds/default.json
+!main.py
+!README.md
+!requirements.txt
+!.gitignore
